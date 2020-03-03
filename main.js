@@ -10,6 +10,8 @@ keys.addEventListener("click", e => {
   let displayedNum = display.textContent;
   const previousKeyType = calculator.dataset.previousKeyType;
 
+  //Switch statements might have been cleaner
+
   if (e.target.matches("button")) {
   }
   if (!action) {
