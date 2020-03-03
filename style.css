@@ -45,6 +45,7 @@ button:hover {
 .calculator .key--operator {
   background-color: rgba(209, 96, 20, 0.281);
   border: 1px solid rgb(245, 99, 1);
+  color: white;
 }
 
 .calculator .key--operator:hover {
