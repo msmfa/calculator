@@ -1,10 +1,10 @@
 ## Calculator App
-Building a calculator without any frameworks or libraries. 
+Building a calculator without any frameworks or libraries... 
 
 ## Deployment
 *...link to site/what to download/what to install
 ## Screenshot
-![](images/calculator-proj-screenshot.jpg)
+![](images/calc-closeup-screenshot.png)
 ## Build Tools & Languages
 - HTML
 - CSS
