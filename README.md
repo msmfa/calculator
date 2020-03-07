@@ -2,7 +2,7 @@
 Built a calculator without any frameworks or libraries.
 
 ## Deployment
-*...link to site/what to download/what to install
+https://msmfa.github.io/calculator/
 ## Screenshot
 ![](images/calc-closeup-screenshot.png)
 ## Build Tools & Languages
