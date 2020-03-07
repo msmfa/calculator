@@ -1,7 +1,23 @@
-Calculator App 
+## Calculator App
+Building a calculator without any frameworks or libraries. 
 
-A project aimed at allowing me to practice my vanilla javascript as well as CSS Grid and Flexbox skills.
-
-No frameworks or libraries were used in the build.
-
+## Deployment
+*...link to site/what to download/what to install
+## Screenshot
 ![](images/calculator-proj-screenshot.jpg)
+## Build Tools & Languages
+- HTML
+- CSS
+- Javascript
+- Visual Studio Code
+- Git
+- Github
+
+## What did I learn? 
+- DOM Manipulation 
+- HTML5 "action" case uses and uses
+
+## Authors 
+Michael Sydney Moore 
+## License 
+N/A
