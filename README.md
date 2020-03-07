@@ -1,5 +1,5 @@
 ## Calculator App
-Building a calculator without any frameworks or libraries... 
+Built a calculator without any frameworks or libraries.
 
 ## Deployment
 *...link to site/what to download/what to install
@@ -14,6 +14,8 @@ Building a calculator without any frameworks or libraries...
 - Github
 
 ## What did I learn? 
+- CSS Gradients
+- CSS Pseudo Selectors
 - DOM Manipulation 
 - HTML5 "action" case uses and uses
 
